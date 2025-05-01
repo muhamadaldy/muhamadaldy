@@ -34,8 +34,17 @@
 ---
 
 📫 **Contact Me**  
-📧 Email: aldy64777@gmail.com  
-💼 LinkedIn: [www.linkedin.com/in/aldy-aldy-b3b742359](https://linkedin.com/in/your-link)
+📧 Email: aldy64777@gmail.com
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldy-aldy-b3b742359)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aldy_7589/)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/aldy.aldyputratunggal)
+
+---
+
+### 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhamadaldy)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
